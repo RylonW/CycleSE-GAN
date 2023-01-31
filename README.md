@@ -18,6 +18,7 @@ Unsupervised Ancient Document Image Denoising Based on Attention Mechanism
 | CycleGAN+CBAM | 3.16    | 11.52   | 67.18 |
 | CycleGAN+SE | 1.06    | 4.85   | 59.79 | 
 
+## OCR engine recognition output
 ## OCR metrics
 | model  | CER(%) | 
 |--------|------------|
@@ -25,4 +26,4 @@ Unsupervised Ancient Document Image Denoising Based on Attention Mechanism
 | CycleGAN+CBAM | 36.01    |
 | CycleGAN+SE | 31.09    |
 
-:cherries:More deltials will be added soon!
+:cherries:More deltials will be added soon!This is not the final version.

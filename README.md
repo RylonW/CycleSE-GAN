@@ -10,7 +10,7 @@ Unsupervised Ancient Document Image Denoising Based on Attention Mechanism
   The dataset used for calculating AR and CR metrics is also included.
   
 # Results
-![avatar](https://github.com/RylonW/CycleSE-GAN/blob/main/pic/denoise_result.emf)
+![avatar](https://github.com/RylonW/CycleSE-GAN/blob/main/pic/denoise_result.png)
 
 
 ## FID metrics

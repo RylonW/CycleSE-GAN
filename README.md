@@ -9,7 +9,7 @@ Unsupervised Ancient Document Image Denoising Based on Attention Mechanism
   
 # Results
 ![image](https://github.com/RylonW/CycleSE-GAN/blob/main/pic/denoise_result.png)
-![image](https://github.com/RylonW/CycleSE-GAN/blob/main/pic/recognition.png)
+
 
 ## FID metrics
 | Feature Dimention  | 64 | 192    | 2048  |
@@ -19,6 +19,7 @@ Unsupervised Ancient Document Image Denoising Based on Attention Mechanism
 | CycleGAN+SE | 1.06    | 4.85   | 59.79 | 
 
 ## OCR engine recognition output
+![image](https://github.com/RylonW/CycleSE-GAN/blob/main/pic/recognition.png)
 ## OCR metrics
 | model  | CER(%) | 
 |--------|------------|

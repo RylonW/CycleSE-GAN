@@ -5,13 +5,11 @@ Unsupervised Ancient Document Image Denoising Based on Attention Mechanism
   torch 1.9.1
 
 # Dataset
-  MTHV2 train:test = 4:1  
-  :link:Download processed dataset:(https://1drv.ms/u/s!Aj6X7kgt6NgZjRhnhV_dKIRZLYL5?e=ZUfgGI)
-  The dataset used for calculating AR and CR metrics is also included.
+  We proposed a new dataset, which consists of 2400 ancient document images.
   
 # Results
 ![avatar](https://github.com/RylonW/CycleSE-GAN/blob/main/pic/denoise_result.png)
-
+![avatar](https://github.com/RylonW/CycleSE-GAN/blob/main/pic/recognition.png)
 
 ## FID metrics
 | Feature Dimention  | 64 | 192    | 2048  |

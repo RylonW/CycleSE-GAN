@@ -8,8 +8,8 @@ Unsupervised Ancient Document Image Denoising Based on Attention Mechanism
   We proposed a new dataset, which consists of 2400 ancient document images.
   
 # Results
-![avatar](https://github.com/RylonW/CycleSE-GAN/blob/main/pic/denoise_result.png)
-![avatar](https://github.com/RylonW/CycleSE-GAN/blob/main/pic/recognition.png)
+![image](https://github.com/RylonW/CycleSE-GAN/blob/main/pic/denoise_result.png)
+![image](https://github.com/RylonW/CycleSE-GAN/blob/main/pic/recognition.png)
 
 ## FID metrics
 | Feature Dimention  | 64 | 192    | 2048  |

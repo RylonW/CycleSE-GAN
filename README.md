@@ -5,6 +5,7 @@
 
 # Dataset
   We chose Fangshan Shijing as our data source and cropped 1200 positive and negative 256*256 patches each. The ratio of training set to test set is 5:1. Here are some samples:
+ <img src="https://github.com/RylonW/CycleSE-GAN/blob/main/pic/samples.jpg" width=50% height=50%>
   
 # Network Architecture
 <img src="https://github.com/RylonW/CycleSE-GAN/blob/main/pic/generator.jpg" width=50% height=50%>

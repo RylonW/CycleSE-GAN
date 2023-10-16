@@ -10,6 +10,8 @@ The digitization of ancient documents is on the rise, while the poor quality of 
   We chose Fangshan Shijing as our data source and cropped 1200 positive and negative 256 * 256 patches each. The ratio of training set to test set is 5:1. Here are two samples:
   
  <img src="https://github.com/RylonW/CycleSE-GAN/blob/main/pic/samples.jpg" width=20% height=20%>
+
+ Download : Noise2Denoise(url = https://www.dropbox.com/scl/fo/jjwrzkzvu0rrtgoaglbz2/h?rlkey=87w58wlp7qwnielm8md2hy9nd&dl=0)
   
 # Network Architecture
 <img src="https://github.com/RylonW/CycleSE-GAN/blob/main/pic/generator.jpg" width=50% height=50%>

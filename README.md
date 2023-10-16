@@ -11,8 +11,18 @@ The digitization of ancient documents is on the rise, while the poor quality of 
   
  <img src="https://github.com/RylonW/CycleSE-GAN/blob/main/pic/samples.jpg" width=20% height=20%>
 
- Download : Noise2Denoise(url = https://www.dropbox.com/scl/fo/jjwrzkzvu0rrtgoaglbz2/h?rlkey=87w58wlp7qwnielm8md2hy9nd&dl=0)
+ Download : [Noise2Denoise](https://www.dropbox.com/scl/fo/jjwrzkzvu0rrtgoaglbz2/h?rlkey=87w58wlp7qwnielm8md2hy9nd&dl=0)
   
+|Name| Explaination|
+|------|------|
+|trainA | clean images for training|
+|trainB | noisy images for training|
+|testA | clean images for testing|
+|testB | noisy images for testing|
+|testBgt_sim.txt | character level annotation for testB (simplified chinese)|
+|testBgt_tra.txt | character level annotation for testB (traditional chinese)|
+
+The pdf file is the data source from which we have extracted all the samples. You can use it as you like. 
 # Network Architecture
 <img src="https://github.com/RylonW/CycleSE-GAN/blob/main/pic/generator.jpg" width=50% height=50%>
 
